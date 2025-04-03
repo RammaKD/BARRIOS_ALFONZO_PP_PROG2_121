@@ -1,1 +1,1 @@
-# BARRIOS_ALFONZO_PP_PROG2_121
+Primer parcial de la materia Programación II de la carrera TUP. Se ha hecho con POO utilizando Java.
